@@ -2,6 +2,14 @@
 
 O Event Plataform é uma plataforma para eventos online.
 
+### Tecnologias usadas
+
+- React
+- Typescript
+- Graphql
+- Tailwind
+- Vite
+
 ### Como rodar o projeto
 
 - Fazer o clone do projeto
